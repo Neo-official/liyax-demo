@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/3yrb3kc7qecwc.css","style"]
+:HL["/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"qVt2SXbGaVcvjclquAPZ-","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
