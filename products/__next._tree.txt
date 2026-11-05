@@ -1,5 +1,5 @@
-:HL["/_next/static/chunks/3yrb3kc7qecwc.css","style"]
-:HL["/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/liyax-demo/_next/static/chunks/3yrb3kc7qecwc.css","style"]
+:HL["/liyax-demo/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"products","h":96,"c":"$Q2"}]]
-0:{"b":"qVt2SXbGaVcvjclquAPZ-","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"QXn_H4Nf6es6If9i85Chr","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
