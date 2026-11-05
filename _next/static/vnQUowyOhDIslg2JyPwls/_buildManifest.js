@@ -1,7 +1,12 @@
 self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/liyax-demo//_next/:path+",
+        "destination": "/liyax-demo/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [

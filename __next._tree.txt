@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/2njv3otplyej9.css","style"]
-:HL["/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/liyax-demo/_next/static/chunks/2njv3otplyej9.css","style"]
+:HL["/liyax-demo/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"440rMF7o1jIPMW7Vvy0kj","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"vnQUowyOhDIslg2JyPwls","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
